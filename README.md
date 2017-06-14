@@ -1,5 +1,5 @@
 # issue
 
-potter开源框架的版本维护库 
+ratel开源框架的版本维护库 
 
-文档地址：http://potter.javaosc.com
+文档地址：http://ratel.javaosc.com
