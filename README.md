@@ -1,5 +1,5 @@
 # issue
 
-ratel开源框架的版本维护库 
+galaxy开源框架的版本维护库 
 
-文档地址：http://ratel.javaosc.com
+文档地址：http://galaxy.javaosc.com
